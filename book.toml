@@ -1,0 +1,6 @@
+[book]
+authors = ["박찬수"]
+language = "ko"
+multilingual = false
+src = "src"
+title = "My Computer Science Book"
